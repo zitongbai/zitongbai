@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zitongbai
-- 👀 I’m interested in Robotics, especially in Humanoid Robot.
+- 👀 I’m interested in Control Theory and Robotics, especially in Humanoid Robot.
 - 🌱 I’m currently learning at BUAA
 - 📫 How to reach me zitongbai@outlook.com
 
